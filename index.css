@@ -1,0 +1,28 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+#nav{
+    width: 100%;
+    height:auto;
+
+}
+#headertx{
+    width: 100%;
+    height:auto;
+    margin-top: 0px;
+}
+#contentarea{
+    idth: 100%;
+    height:auto;
+    margin-top: 0px;
+}
+#mywell{
+    margin-bottom: 0px;
+    padding:6px;
+}
+#mywell1{
+    margin-bottom: 0px;
+    background-color: #138750;
+    color:white;
+}
